@@ -240,7 +240,7 @@ GROUP BY shift;
 - **Customer Insights**: Reports on top customers and unique customer counts per category.
 
 ## Author - Dev Agarwal
-
+- **LinkedIn**: [Connect with me professionally](www.linkedin.com/in/dev-agarwal-189a99258)
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, feel free to get in touch!
 
 
