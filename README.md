@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Project Title**:  SQL-Retail-Sales-Data-Project        
+**Project Title**:  Retail Sales Business Analysis using SQL        
 **Level**: Beginner  
 **Database**: `SQL_PROJECT_1`
 
